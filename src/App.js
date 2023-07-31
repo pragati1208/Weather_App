@@ -1,6 +1,5 @@
 import hotBg from './assets/hot.jpg'
 import coldBg from './assets/cold.jpg'
-import Bg from './assets/cloudy.png'
 import Description from './components/Description';
 import { useEffect, useState } from 'react';
 import { getFormattedWeatherData } from './WeatherService';
